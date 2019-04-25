@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on DLab of JNU</title>
+    <link>https://dlab.ml/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on DLab of JNU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;DLab {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dlab.ml/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://dlab.ml/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>https://dlab.ml/talk/example/</guid>
+      <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
+    </item>
+    
+  </channel>
+</rss>
